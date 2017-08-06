@@ -1,6 +1,6 @@
 FROM rtfpessoa/ubuntu-compose:latest
 
-MAINTAINER Franck Delage <franck@web82.fr>
+MAINTAINER Franck Delage <eozhiganov@gmail.com>
 
 RUN apt-get update && apt-get install -qq -y --no-install-recommends \
     ca-certificates curl unzip
